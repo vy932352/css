@@ -1,0 +1,22 @@
+/* 
+
+    sintaxis de css
+    constan de 3 elementos:
+
+    selector {
+    es el e{lemento al que se le aplican los estilos
+
+    propiedad :
+    es la caracteristica que se define en el elemento
+
+    valor ;
+    es el estilo que se aplica a la propiedad
+
+    importante: el conjunto de estos tres elementos se conce como "regla de css"
+
+*/
+
+body {
+    background-color: #FFEEB3;
+    color: #8E1523;
+}
